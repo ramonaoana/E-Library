@@ -1,0 +1,45 @@
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormAdaugaCarte.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormCarti.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.Login.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.UserControl1.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormHome.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormWelcome.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormRaport.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormGrafic2.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormCititor.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormImprumuturi.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormPieChartCititori.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormGraficImprumuturi.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormAdaugaAdmin.resources
+C:\Users\aramo\Desktop\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormAdaugaAdmin.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormAdaugaCarte.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormCarti.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormCititor.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormGrafic2.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormGraficImprumuturi.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormHome.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormImprumuturi.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormPieChartCititori.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormRaport.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.FormWelcome.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.Login.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.UserControl1.resources
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\aramo\Desktop\CSIE II\Semestrul II\PAW\Proiect_Paw\Biblioteca\obj\Debug\Biblioteca.pdb

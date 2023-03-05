@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lista-Carti>
+  <Carte>
+    <ID-CARTE>1</ID-CARTE>
+    <NUME-CARTE>Mandrie si prejudecata                            </NUME-CARTE>
+    <AUTOR>Jane Austin                   </AUTOR>
+    <EDITURA>Corint Books        </EDITURA>
+    <PRET>10</PRET>
+    <NR-PAGINI>368</NR-PAGINI>
+    <TIP>Beletristica        </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>2</ID-CARTE>
+    <NUME-CARTE>Istoria Romanilor                                 </NUME-CARTE>
+    <AUTOR>Constantin Giurescu           </AUTOR>
+    <EDITURA>ALL                 </EDITURA>
+    <PRET>50</PRET>
+    <NR-PAGINI>1780</NR-PAGINI>
+    <TIP>Istorie             </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>3</ID-CARTE>
+    <NUME-CARTE>Hotul de carti                                    </NUME-CARTE>
+    <AUTOR>Markus Zusak                  </AUTOR>
+    <EDITURA>RAO                 </EDITURA>
+    <PRET>11</PRET>
+    <NR-PAGINI>100</NR-PAGINI>
+    <TIP>Fictiune            </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>4</ID-CARTE>
+    <NUME-CARTE>Micul Print                                       </NUME-CARTE>
+    <AUTOR>Antoine de Saint Exupery      </AUTOR>
+    <EDITURA>Litera              </EDITURA>
+    <PRET>7</PRET>
+    <NR-PAGINI>128</NR-PAGINI>
+    <TIP>Copii               </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>5</ID-CARTE>
+    <NUME-CARTE>Poezii                                            </NUME-CARTE>
+    <AUTOR>Mihai Eminescu                </AUTOR>
+    <EDITURA>Aramis              </EDITURA>
+    <PRET>4</PRET>
+    <NR-PAGINI>256</NR-PAGINI>
+    <TIP>Beletristica        </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>7</ID-CARTE>
+    <NUME-CARTE>Biblioteca din Paris                              </NUME-CARTE>
+    <AUTOR>Janet Charles                 </AUTOR>
+    <EDITURA>ALL                 </EDITURA>
+    <PRET>20</PRET>
+    <NR-PAGINI>1234</NR-PAGINI>
+    <TIP>Fictiune            </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>8</ID-CARTE>
+    <NUME-CARTE>Miturile Greciei                                  </NUME-CARTE>
+    <AUTOR>Robert Graves                 </AUTOR>
+    <EDITURA>Polirom             </EDITURA>
+    <PRET>40</PRET>
+    <NR-PAGINI>4567</NR-PAGINI>
+    <TIP>Istorie             </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>9</ID-CARTE>
+    <NUME-CARTE>Fram, ursul polar                                 </NUME-CARTE>
+    <AUTOR>Cezar Petrescu                </AUTOR>
+    <EDITURA>Litera              </EDITURA>
+    <PRET>17</PRET>
+    <NR-PAGINI>205</NR-PAGINI>
+    <TIP>Copii               </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>10</ID-CARTE>
+    <NUME-CARTE>La Medeleni                                       </NUME-CARTE>
+    <AUTOR>Ionel Teodoreanu              </AUTOR>
+    <EDITURA>RAO                 </EDITURA>
+    <PRET>25</PRET>
+    <NR-PAGINI>400</NR-PAGINI>
+    <TIP>Beletristica        </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>11</ID-CARTE>
+    <NUME-CARTE>Razboi si pace                                    </NUME-CARTE>
+    <AUTOR>Lev Tolstoi                   </AUTOR>
+    <EDITURA>Aramis              </EDITURA>
+    <PRET>56</PRET>
+    <NR-PAGINI>688</NR-PAGINI>
+    <TIP>Istorie             </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>12</ID-CARTE>
+    <NUME-CARTE>Cantec de gheata si foc                           </NUME-CARTE>
+    <AUTOR>George Martin                 </AUTOR>
+    <EDITURA>ALL                 </EDITURA>
+    <PRET>70</PRET>
+    <NR-PAGINI>1500</NR-PAGINI>
+    <TIP>Fictiune            </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>13</ID-CARTE>
+    <NUME-CARTE>Orizonturi rosii                                  </NUME-CARTE>
+    <AUTOR>Ion Mihai Pacepa              </AUTOR>
+    <EDITURA>Humanitas           </EDITURA>
+    <PRET>45</PRET>
+    <NR-PAGINI>760</NR-PAGINI>
+    <TIP>Istorie             </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>14</ID-CARTE>
+    <NUME-CARTE>Colt Alb                                          </NUME-CARTE>
+    <AUTOR>Jack London                   </AUTOR>
+    <EDITURA>Litera              </EDITURA>
+    <PRET>21</PRET>
+    <NR-PAGINI>130</NR-PAGINI>
+    <TIP>Copii               </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>21</ID-CARTE>
+    <NUME-CARTE>Ion                                               </NUME-CARTE>
+    <AUTOR>Liviu Rebreanu                </AUTOR>
+    <EDITURA>Humanitas           </EDITURA>
+    <PRET>21</PRET>
+    <NR-PAGINI>205</NR-PAGINI>
+    <TIP>Beletristica        </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>25</ID-CARTE>
+    <NUME-CARTE>Corpul uman                                       </NUME-CARTE>
+    <AUTOR>George Mark                   </AUTOR>
+    <EDITURA>Litera              </EDITURA>
+    <PRET>57</PRET>
+    <NR-PAGINI>130</NR-PAGINI>
+    <TIP>Stiinte             </TIP>
+  </Carte>
+  <Carte>
+    <ID-CARTE>26</ID-CARTE>
+    <NUME-CARTE>Fizica povestita                                  </NUME-CARTE>
+    <AUTOR>Cristian Petre                </AUTOR>
+    <EDITURA>Aramis              </EDITURA>
+    <PRET>78</PRET>
+    <NR-PAGINI>230</NR-PAGINI>
+    <TIP>Stiinte             </TIP>
+  </Carte>
+</Lista-Carti>
